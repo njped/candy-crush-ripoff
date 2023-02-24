@@ -1,0 +1,23 @@
+body {
+  background: #faebd7;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+td {
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
